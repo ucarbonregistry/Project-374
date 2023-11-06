@@ -53,7 +53,9 @@ project activity for this 1st UCR monitored period is 50734 tCO2e.
 _______________________
 
 PRIOR HISTORY
+
 WTGs V-05 and M-16 have been previously registered under the UNFCCC CDM as:
+
  Title project activity: 5 MW WIND POWER PROJECT BY GOKUL REFOILS AND SOLVENT
 LIMITED
 
@@ -65,8 +67,9 @@ Monitoring Period: 07/02/2011 - 31/01/2012
 
 CERs issued: 5956 tCO2 (Serial Range: Block start: IN-5-175448640-1-1-0-4062 Block end: IN-5-
 175454595-1-1-0-4062)
-
+_____________________
 WTGs ADO-33 has been previously registered under the UNFCCC CDM as:
+
  Title project activity: 2.5 MW Wind Project by Gokul Refoils & Solvent Limited
 
 CDM Reference number: 9722
